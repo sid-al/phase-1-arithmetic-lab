@@ -18,5 +18,5 @@ const mod = num3 % num4;
  
 
 const numSet = (10,12,16,18,20);
-const max = math.max(10,12,16,18,20);
+const max = Math.max(10,12,16,18,20);
 
